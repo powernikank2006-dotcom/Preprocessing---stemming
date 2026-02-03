@@ -1,0 +1,2 @@
+Original Words : ['playing', 'plays', 'played', 'happily', 'running', 'runner', 'runs']
+Stemmed Words  : ['play', 'play', 'play', 'happili', 'run', 'runner', 'run']
